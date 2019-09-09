@@ -1,0 +1,25 @@
+.html{
+    box-sizing: border-box;
+}
+.navBar{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+}
+.navLogo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.logo{
+    width: 400px;
+}
+.social{
+    margin-right: 20px;
+}
+.social svg{
+    margin-left: 20px;    
+}
